@@ -1,0 +1,147 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Poppins;
+}
+
+.topo {
+  height: 150px;
+  width: 100%;
+  padding-top: 50px;
+  background-color: #2f86d6;
+}
+
+.topo .logo h1 {
+  left: 85px;
+}
+
+.logo {
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+.logo h1 {
+  position: relative;
+  top: -90px;
+  left: 85px;
+}
+
+.logo p {
+  position: relative;
+  top: -90px;
+  left: 85px;
+  color: #fff;
+}
+
+.logo img {
+  height: 70px;
+  position: relative;
+  top: -10px;
+}
+
+.topo .links {
+  position: absolute;
+  top: 70px;
+  right: 15%;
+}
+
+.topo a {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+  padding: 0 10px;
+  color: #fff;
+}
+table {
+  width: 100%;
+  max-width: 1000px;
+  margin: 80px auto;
+  border-radius: 5px;
+  padding: 0;
+  text-align: center;
+}
+
+table p {
+  color: #a89f9f;
+  font-size: 10px;
+  width: 100px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+table td {
+  padding: 15px;
+  font-size: 14px;
+  border: 1px solid #f6f6f6;
+}
+
+table th {
+  padding: 10px 0;
+}
+
+.coluna1 {
+  text-align: left;
+  font-weight: bold;
+  padding-left: 40px;
+}
+
+.linha1,
+.coluna1 {
+  background-color: #f6f6f6;
+}
+
+td div {
+  margin: 0 auto;
+}
+
+.marcadores {
+  font-size: 0;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #2f86d6;
+}
+
+.rodape {
+  text-align: center;
+  background-color: #2f86d6;
+}
+
+.rodape img {
+  position: relative;
+  left: -90px;
+  margin-top: 40px;
+}
+
+.logo h1 {
+  position: relative;
+  left: 30px;
+}
+
+.rodape .logo {
+  height: 150px;
+}
+
+.rodape .logo p {
+  position: relative;
+  color: #fff;
+  left: 60px;
+}
+
+.rodape .contatos {
+  margin-bottom: 40px;
+  color: #fff;
+}
+
+.final {
+  padding: 20px;
+  text-align: center;
+  font-weight: bold;
+  background-color: #f6f6f6;
+}
+
+.final a {
+  text-decoration: none;
+  color: #2f86d6;
+}
